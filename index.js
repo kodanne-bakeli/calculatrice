@@ -24,19 +24,3 @@
    }
 
 
-
-    //  function operation(op){
-        //  nombre1=document.form.number1.value;
-        //  nombre2=document.form.number2.value;
-        //  switch(op){
-            // case "add": result=parseFloat(nombre1)+parseFloat(nombre2); break;
-          
-        //  }
-        //  document.form.result.value=result;
-    //   }
-    // do{  
-    //     let number1 = document.form.number1.value;
-    //     let number2 = document.form.number2.value;
-    //      result = parseFloat(number1)+ parseFloat(number2)
-    //      document.form.result.value = result;
-    //   }while(document.form.button.onclick = "additionner")
